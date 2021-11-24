@@ -12,6 +12,7 @@ import lombok.Setter;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
+/* Exemplo de Herança */
 public class Informatica extends Produto {
 
 	private String marca;
